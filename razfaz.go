@@ -1,7 +1,7 @@
 package main
 
 import (
-	"exp/html"
+	"code.google.com/p/go.net/html"
 	"flag"
 	"fmt"
 	"html/template"
